@@ -11,9 +11,9 @@ public class Rectangle {
     public final double RightDown;
 
 
-    public Rectangle(double x1, double y1, double x2, double y2) {
-        this(new Point(x1, y1), new Point(x2, y2));
-    }
+//    public Rectangle(double x1, double y1, double x2, double y2) {
+//        this(new Point(x1, y1), new Point(x2, y2));
+//    }
 
     public Rectangle(Point a, Point b) {
         if (a == null && b == null) {
@@ -64,5 +64,13 @@ public class Rectangle {
         int result = getA() != null ? getA().hashCode() : 0;
         result = 31 * result + (getB() != null ? getB().hashCode() : 0);
         return result;
+    }
+
+    public static double area (Point a, Point b){
+        return area (a.getX(), a.getY(), b.getX(), b.getY());
+    }
+
+    public static double area (double x1, double y1, double x2, double y2){
+        return Math.abs(x2-x1)* Math.abs(y2-y1);
     }
 }
