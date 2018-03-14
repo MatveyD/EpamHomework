@@ -10,7 +10,7 @@
 ## Homework #4 
  1. [Library](https://github.com/shaart/EPAM-JavaCoreCoop/tree/master/BookLibrary)
  2. [Errors](https://github.com/MatveyD/EpamHomework/tree/master/src/HomeWork4/Task2)
- 3. [Jvusualvm](https://github.com/MatveyD/EpamHomework/tree/master/src/HomeWork4/Task3)
+ 3. [Jvisualvm](https://github.com/MatveyD/EpamHomework/tree/master/src/HomeWork4/Task3)
 
 ## HackerRank - 30 Days of code
 
