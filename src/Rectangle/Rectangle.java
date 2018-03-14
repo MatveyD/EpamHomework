@@ -66,11 +66,11 @@ public class Rectangle {
         return result;
     }
 
-    public static double area (Point a, Point b){
-        return area (a.getX(), a.getY(), b.getX(), b.getY());
+    public static double area(Point a, Point b) {
+        return area(a.getX(), a.getY(), b.getX(), b.getY());
     }
 
-    public static double area (double x1, double y1, double x2, double y2){
-        return Math.abs(x2-x1)* Math.abs(y2-y1);
+    public static double area(double x1, double y1, double x2, double y2) {
+        return Math.abs(x2 - x1) * Math.abs(y2 - y1);
     }
 }

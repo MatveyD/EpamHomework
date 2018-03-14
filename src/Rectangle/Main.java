@@ -19,7 +19,7 @@ public class Main {
         return value;
     }
 
-    public static void main (String args[]){
+    public static void main(String args[]) {
 
         Scanner scanner = new Scanner(System.in);
 
@@ -32,7 +32,7 @@ public class Main {
         double y2 = scanner.nextDouble();
 
 
-        System.out.println("A( "+x1+" : "+y1+" ) \nB( "+x2+" : "+y2+" )    \nFigure area: " + area(x1,y1,x2,y2));
+        System.out.println("A( " + x1 + " : " + y1 + " ) \nB( " + x2 + " : " + y2 + " )    \nFigure area: " + area(x1, y1, x2, y2));
     }
 
 }
