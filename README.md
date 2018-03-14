@@ -3,8 +3,8 @@
 ## Homework #1, #2, #4 
         [In src folder](https://github.com/MatveyD/EpamHomework/tree/master/src)
 ## Homework #3. 
-        [Terminal](https://github.com/shaart/EPAM-JavaCoreCoop/tree/master/JCL)
-        [CacheMusic]:https://github.com/shaart/EPAM-JavaCoreCoop/tree/master/CacheMusic)
+        [Terminal](https://github.com/shaart/EPAM-JavaCoreCoop/tree/master/JCL.)
+        [CacheMusic] https://github.com/shaart/EPAM-JavaCoreCoop/tree/master/CacheMusic
 ## Homework #4.1. 
         [Library](https://github.com/shaart/EPAM-JavaCoreCoop/tree/master/BookLibrary)
 
