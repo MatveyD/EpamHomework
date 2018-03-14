@@ -18,7 +18,7 @@ public class Jvisualvm {
         while (true) {
             list.add(new Object());
             objectCounter++;
-            if (objectCounter % 100_000_000 == 0) {
+            if (objectCounter % 1_000_000 == 0) {
                 System.gc();
             }
 
